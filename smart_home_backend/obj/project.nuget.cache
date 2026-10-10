@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTmbHTzrm6A=",
+  "success": true,
+  "projectFilePath": "C:\\Application\\Smart_Home\\smart_home_backend\\smart_home_backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sami_Shaheen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\Sami_Shaheen\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Application\\Smart_Home\\smart_home_backend\\smart_home_backend.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Application\\Smart_Home\\smart_home_backend\\smart_home_backend.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
